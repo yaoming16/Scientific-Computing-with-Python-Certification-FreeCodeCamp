@@ -6,11 +6,11 @@ This repository contains all my solutions to the Scientific Computing with Pytho
 
 ## Project list:
 
-- [Arithmetic Formatter](#arithmetic-formatter)
-- [Time Calculator](#time-calculator)
-- [Budget App](#budget-app)
-- [Polygon Area Calculator](#Polygon-Area-Calculator)
-- [Probability Calculator](#probability-calculator)
+- [Arithmetic Formatter](#:fire:-arithmetic-formatter)
+- [Time Calculator](#:fire:-time-calculator)
+- [Budget App](#:fire:-budget-app)
+- [Polygon Area Calculator](#:fire:-Polygon-Area-Calculator)
+- [Probability Calculator](#:fire:-probability-calculator)
 
 ## :fire: Arithmetic Formatter
 
