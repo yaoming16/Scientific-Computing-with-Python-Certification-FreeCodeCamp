@@ -12,7 +12,7 @@ This repository contains all my solutions to the Scientific Computing with Pytho
 - [Polygon Area Calculator](#Polygon-Area-Calculator)
 - [Probability Calculator](#probability-calculator)
 
-## Arithmetic Formatter
+## :fire: Arithmetic Formatter
 
 This project consisted in creating a function that receives a sum or a substraction and arrenges it vertically. The function receives as a parameter the problems to arrenge and also can receive an optional parameter ( True or False) in case the user wants the results to be shown. 
 
@@ -34,7 +34,7 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 
 You can try my code at [Replit](https://replit.com/@PabloPerez26/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
 
-## Time Calculator
+## :fire: Time Calculator
 
 This project consisted in creating a function receives as parameters a starting time and a duration time. It will return the starting time with the duration time added 
 
@@ -52,7 +52,7 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 
 You can try my code at [Replit](https://replit.com/@PabloPerez26/time-calculator#main.py)
 
-## Budget App
+## :fire: Budget App
 
 This project consisted in creating a class called Budget. It should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called ledger that is a list. The class should also contain differents methods that will alter the budget. 
 
@@ -98,7 +98,7 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 You can try my code at [Replit](https://replit.com/@PabloPerez26/budget-app)
 
 
-## Polygon Area Calculator
+## :fire: Polygon Area Calculator
 
 This project consisted in creating a class called rectangle and a subclass of rectangle called square that inhereted methods and attributes. The Rectangle class includes methods to calculate area, perimeter, diagonal, print a picture and see how many times other shapes can fit inside. 
 
@@ -107,7 +107,7 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 
 You can try my code at [Replit](https://replit.com/@PabloPerez26/polygon-area-calculator)
 
-## Probability Calculator
+## :fire: Probability Calculator
 
 For this project, I needed to write a program to determine the approximate probability of drawing certain balls randomly from a hat. I created a Hat class that the user, when creating a instance of the class, can decide how many balls are in the hat  and of which colors they are. Then there is a function to calculate the probability of picking a group of balls from an instance of the hat class
 
