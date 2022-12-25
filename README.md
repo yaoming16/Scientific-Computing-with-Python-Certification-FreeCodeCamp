@@ -6,13 +6,13 @@ This repository contains all my solutions to the Scientific Computing with Pytho
 
 ## Project list:
 
-- [Arithmetic Formatter](#:fire:-arithmetic-formatter)
-- [Time Calculator](#:fire:-time-calculator)
-- [Budget App](#:fire:-budget-app)
-- [Polygon Area Calculator](#:fire:-Polygon-Area-Calculator)
-- [Probability Calculator](#:fire:-probability-calculator)
+- [Arithmetic Formatter](#arithmetic-formatter)
+- [Time Calculator](#time-calculator)
+- [Budget App](#budget-app)
+- [Polygon Area Calculator](#Polygon-Area-Calculator)
+- [Probability Calculator](#probability-calculator)
 
-## :fire: Arithmetic Formatter
+:fire: ##Arithmetic Formatter
 
 This project consisted in creating a function that receives a sum or a substraction and arrenges it vertically. The function receives as a parameter the problems to arrenge and also can receive an optional parameter ( True or False) in case the user wants the results to be shown. 
 
@@ -34,7 +34,7 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 
 You can try my code at [Replit](https://replit.com/@PabloPerez26/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
 
-## :fire: Time Calculator
+:fire: ##Time Calculator
 
 This project consisted in creating a function receives as parameters a starting time and a duration time. It will return the starting time with the duration time added 
 
