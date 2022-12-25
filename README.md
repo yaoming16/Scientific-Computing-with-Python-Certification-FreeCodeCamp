@@ -12,7 +12,7 @@ This repository contains all my solutions to the Scientific Computing with Pytho
 - [Polygon Area Calculator](#Polygon-Area-Calculator)
 - [Probability Calculator](#probability-calculator)
 
-:fire: ##Arithmetic Formatter
+##Arithmetic Formatter
 
 This project consisted in creating a function that receives a sum or a substraction and arrenges it vertically. The function receives as a parameter the problems to arrenge and also can receive an optional parameter ( True or False) in case the user wants the results to be shown. 
 
