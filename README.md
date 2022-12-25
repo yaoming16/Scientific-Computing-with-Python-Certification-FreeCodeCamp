@@ -67,7 +67,7 @@ Transfer to Clothing    -50.00
 Total: 923.96
 ```
 
-There is also a function called "create_spend_chart" that creates a chart showing spending from a list of categories that receives as parameters. Her eis an example of the output:
+There is also a function called "create_spend_chart" that creates a chart showing spending from a list of categories that receives as parameters. Here is an example of the output:
 
 ```
 Percentage spent by category
